@@ -1,0 +1,14 @@
+.register-form-container {
+  width: 480px;
+  transform: translateY(-18%);
+  margin-left: 23% !important;
+}
+
+.register-form-background {
+  background-color: #dee8e3;
+}
+
+.register-background-img {
+  width: 30px;
+  height: 30px;
+}

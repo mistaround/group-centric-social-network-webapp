@@ -1,0 +1,50 @@
+.message_box_me{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.message_box_you{
+    display: flex;
+}
+
+.text_box_me{
+    display: flex;
+    max-width: 400px;
+    width: fit-content;
+    background: #dfdfdf;
+    margin-right: 15px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    align-items: flex-end;
+    font-size: 14px;
+}
+
+.text_box_you{
+    display: flex;
+    max-width: 400px;
+    width: fit-content;
+    background: #40cfa4;
+    margin-left: 15px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+}
+
+.time_me{
+    margin-Top: 10px;
+    margin-Bottom: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 10px;
+    color:#40cfa4
+}
+
+.time_you{
+    margin-Top: 10px;
+    margin-Bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    color:#40cfa4
+}

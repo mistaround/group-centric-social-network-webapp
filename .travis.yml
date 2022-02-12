@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - "14"
+
+jobs:
+  include:
+    - stage: Frontend
+      script:
+        - cd ./client
+        - npm install
+        - npm run lint
+        - npm run build
+    - stage: Backend
+      script:
+        - cd ./server
+        - npm install
+        - npm run lint
+        - npm run test

@@ -1,0 +1,14 @@
+.login-form-container {
+  width: 480px;
+  transform: translateY(-20%);
+  margin-left: 23% !important;
+}
+
+.login-form-background {
+  background-color: #dee8e3;
+}
+
+.login-background-img {
+  width: 30px;
+  height: 30px;
+}
