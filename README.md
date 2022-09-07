@@ -1,2 +1,2 @@
 # Group-centric-Network-App
-### The project uses React, Express and NodeJs using mongodb as database.
+The project uses MERN stack: MongoDB, Express.Js, React.Js, Node.Js
