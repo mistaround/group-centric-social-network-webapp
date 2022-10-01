@@ -1,5 +1,6 @@
 import { io } from "socket.io-client";
 
-const socket = io("ws://localhost:8900");
+// const socket = io(`${process.env.REACT_ENDPOINT}`);
+const socket = io("http://localhost:5001");
 
 export default socket;
