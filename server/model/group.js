@@ -23,7 +23,7 @@ const groupSchema = new mongoose.Schema({
   },
   avatarUrl: {
     type: String,
-    default: "https://shareyou-file-server.s3.amazonaws.com/1639111728324.jpeg",
+    default: "https://shareyou-file-server.s3.amazonaws.com/default-image.jpeg",
   },
   aboutGroup: {
     type: String,

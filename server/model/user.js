@@ -25,7 +25,7 @@ const userSchema = new mongoose.Schema({
   },
   avatarUrl: {
     type: String,
-    default: "https://shareyou-file-server.s3.amazonaws.com/1639111728324.jpeg",
+    default: "https://as2.ftcdn.net/v2/jpg/03/49/49/79/1000_F_349497933_Ly4im8BDmHLaLzgyKg2f2yZOvJjBtlw5.jpg",
   },
   attempts: {
     type: Number,
