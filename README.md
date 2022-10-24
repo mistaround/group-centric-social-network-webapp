@@ -1,5 +1,7 @@
 # Group-centric Social Network App
 
+Deployed: http://54.242.88.225/
+
 The project ultilizes MERN stack:
 
 MongoDB, Express.Js, React.Js, Node.Js
