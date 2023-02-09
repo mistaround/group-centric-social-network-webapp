@@ -1,6 +1,6 @@
 # Group-centric Social Network App
 
-Deployed: http://54.242.88.225/
+Deployed: http://54.242.88.225/ (AWS S3 is closed due to free-tier exceeded, so no images)
 
 The project ultilizes MERN stack:
 
